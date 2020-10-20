@@ -52,6 +52,11 @@ const dummyData = [
                 username: "dennis_futbol",
                 text: "It that injustice",
             },
+            {// new data
+                id: 40,
+                username: "kendra4227",
+                text: "Dope!",
+            }
         ],
     },
 ];
